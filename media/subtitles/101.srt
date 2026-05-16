@@ -1,0 +1,168 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Hello, Alia.
+
+2
+00:00:02,000 --> 00:00:04,000
+ Hello, James.
+
+3
+00:00:04,000 --> 00:00:06,000
+ How are you?
+
+4
+00:00:06,000 --> 00:00:10,000
+ I am well. Thank you.
+
+5
+00:00:10,000 --> 00:00:12,000
+ How are you?
+
+6
+00:00:12,000 --> 00:00:14,000
+ I'm good. Thanks.
+
+7
+00:00:14,000 --> 00:00:18,000
+ Where are you from?
+
+8
+00:00:18,000 --> 00:00:22,000
+ I am from the United States of America.
+
+9
+00:00:22,000 --> 00:00:24,000
+ Where are you from?
+
+10
+00:00:24,000 --> 00:00:28,000
+ I'm from the United Kingdom.
+
+11
+00:00:28,000 --> 00:00:32,000
+ And how old are you?
+
+12
+00:00:32,000 --> 00:00:36,000
+ I am 30 years old.
+
+13
+00:00:36,000 --> 00:00:38,000
+ How old are you?
+
+14
+00:00:38,000 --> 00:00:42,000
+ I'm 32 years old.
+
+15
+00:00:42,000 --> 00:00:48,000
+ Do you have any brothers or sisters?
+
+16
+00:00:48,000 --> 00:00:54,000
+ Yes. I have two little sisters.
+
+17
+00:00:54,000 --> 00:00:56,000
+ How about you?
+
+18
+00:00:56,000 --> 00:01:00,000
+ Do you have any brothers or sisters?
+
+19
+00:01:00,000 --> 00:01:08,000
+ Yes. I have one brother and two sisters.
+
+20
+00:01:08,000 --> 00:01:12,000
+ Alia, what's your favorite food?
+
+21
+00:01:12,000 --> 00:01:18,000
+ My favorite food is a cheeseburger.
+
+22
+00:01:18,000 --> 00:01:22,000
+ How about you? What is your favorite food?
+
+23
+00:01:22,000 --> 00:01:26,000
+ My favorite food is pizza.
+
+24
+00:01:26,000 --> 00:01:32,000
+ And what's your favorite sport?
+
+25
+00:01:32,000 --> 00:01:36,000
+ My favorite sport is snowboarding.
+
+26
+00:01:36,000 --> 00:01:42,000
+ What about you? What's your favorite sport?
+
+27
+00:01:42,000 --> 00:01:46,000
+ My favorite sport is tennis.
+
+28
+00:01:46,000 --> 00:01:50,000
+ Alia, can you swim?
+
+29
+00:01:50,000 --> 00:01:54,000
+ Yes. I can swim.
+
+30
+00:01:54,000 --> 00:01:56,000
+ Can you swim?
+
+31
+00:01:56,000 --> 00:01:58,000
+ Yes. I can swim.
+
+32
+00:01:58,000 --> 00:02:04,000
+ And can you ride a bicycle?
+
+33
+00:02:04,000 --> 00:02:08,000
+ Yes. I can ride a bicycle.
+
+34
+00:02:08,000 --> 00:02:10,000
+ Can you ride a bicycle?
+
+35
+00:02:10,000 --> 00:02:14,000
+ Yes. I can ride a bicycle.
+
+36
+00:02:14,000 --> 00:02:18,000
+ Can you drive?
+
+37
+00:02:18,000 --> 00:02:22,000
+ Yes. I can drive.
+
+38
+00:02:22,000 --> 00:02:26,000
+ How about you? Can you drive, James?
+
+39
+00:02:26,000 --> 00:02:30,000
+ Yes. I can drive.
+
+40
+00:02:30,000 --> 00:02:36,000
+ Thank you for talking with me today.
+
+41
+00:02:36,000 --> 00:02:40,000
+ Thank you for talking with me.
+
+42
+00:02:40,000 --> 00:02:42,000
+ Bye.
+

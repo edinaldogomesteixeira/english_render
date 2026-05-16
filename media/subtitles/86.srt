@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:16,240
+ Hello. Okay. This is an apple. This is an apple here. Now, how many apples are there?
+
+2
+00:00:18,080 --> 00:00:29,360
+ How many apples are there? There are two apples here. One, two. Two apples here.
+
+3
+00:00:30,880 --> 00:00:43,840
+ Okay. Next. Now, how many apples are there? There are three apples now.
+
+4
+00:00:45,680 --> 00:00:56,640
+ One, two, three. Three apples here. Okay. Next. Now, how many apples are there?
+
+5
+00:00:57,280 --> 00:01:10,480
+ There. There are now five apples here. One, two, three, four, five. There are five apples here.
+
+6
+00:01:11,920 --> 00:01:26,560
+ Okay. Next. This. This is an orange. This is an orange. So, how many are there?
+
+7
+00:01:26,640 --> 00:01:41,360
+ Oranges are there. There are three oranges here. Okay. Next. Now, how many oranges are there?
+
+8
+00:01:43,920 --> 00:01:55,840
+ There are now five oranges. Five oranges here. Next. Okay. How many oranges are there now?
+
+9
+00:01:56,800 --> 00:02:12,160
+ There are now four. There's four oranges here. Okay. Next. Look at this. Look at this. This is a banana.
+
+10
+00:02:13,120 --> 00:02:26,320
+ This is a banana here. Okay. So, how many bananas can you see here? How many bananas can you
+
+11
+00:02:27,119 --> 00:02:43,920
+ see? There are four bananas here. Four bananas. Okay. Next. Look. Look here. How many bananas are there here?
+
+12
+00:02:44,399 --> 00:03:00,320
+ Now, there are six bananas here. So, there are six bananas here now. Six. Okay. One more. One more.
+
+13
+00:03:00,799 --> 00:03:15,120
+ Look here. How many bananas can you see here? How many? Yes, there are five bananas here now.
+
+14
+00:03:16,400 --> 00:03:27,440
+ Okay. Next. Next. Take a look. Look here and see how many bananas, how many apples,
+
+15
+00:03:27,440 --> 00:03:34,720
+ and how many oranges are there here? How many can you see here?
+
+16
+00:03:38,400 --> 00:03:50,160
+ Okay. So, there are six apples here. There are three oranges, and there are four bananas here.
+
+17
+00:03:50,160 --> 00:03:57,440
+ Thank you. Thank you for watching this video. Thank you. Bye-bye.
+

@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:18,320
+ Hello. Okay. This is an apple. This is an apple here. Now, how many apples are there?
+
+2
+00:00:18,320 --> 00:00:40,879
+ How many apples are there? There are two apples here. One, two, two apples here. Okay. Next, now, how many apples are there?
+
+3
+00:00:40,880 --> 00:00:57,920
+ There are three apples now. One, two, three. Three apples here. Okay. Next, now, how many apples are there?
+
+4
+00:00:58,880 --> 00:01:22,480
+ There are now five apples here. One, two, three, four, five. There are five apples here. Okay. Next. This, this is an orange. This is an orange.
+
+5
+00:01:23,280 --> 00:01:41,440
+ So, how many oranges are there? There are three oranges here. Okay. Next, now, how many oranges are there?
+
+6
+00:01:41,440 --> 00:01:55,920
+ There are now five oranges. Five oranges here. Next. Okay. How many oranges are there now?
+
+7
+00:01:55,920 --> 00:02:23,360
+ There are now four. There's four oranges here. Okay. Next. Look at this. Look at this. This is a banana. This is a banana here. Okay. So, how many bananas can you see here?
+
+8
+00:02:23,360 --> 00:02:44,320
+ How many bananas can you see? There are four bananas here. Four bananas. Okay. Next. Look here. How many bananas are there here?
+
+9
+00:02:44,320 --> 00:03:10,480
+ Now, there are six bananas here. So, there are six bananas here now. Six. Okay. One more. One more. Look here. How many bananas can you see here? How many?
+
+10
+00:03:11,440 --> 00:03:35,440
+ Yes. There are five bananas here now. Okay. Next. Next. Take a look. Look here and see how many bananas, how many apples and how many oranges are there here? How many can you see here?
+
+11
+00:03:35,440 --> 00:03:58,400
+ Okay. So, there are six apples here. There are three oranges and there are four bananas here. Thank you. Thank you for watching this video. Thank you. Bye-bye.
+

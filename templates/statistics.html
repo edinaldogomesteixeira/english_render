@@ -1,0 +1,148 @@
+
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estatísticas</title>
+
+  <link rel="stylesheet" href="{% static 'css/statistics.css' %}">
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- TOPO -->
+  <div class="top-progress">
+    <span>Pontuação de Hoje: 0/15 min</span>
+
+    <div class="progress-bar">
+      <div class="progress-fill"></div>
+    </div>
+  </div>
+
+  <!-- TITULO -->
+  <h1>Seu Progresso</h1>
+
+  <!-- CARDS -->
+  <div class="cards">
+
+    <div class="card yellow">
+      <h3>Nível Atual</h3>
+      <h2>{{ current_level }}</h2>
+
+      <p>Próximo nível em {{ next_level_time }}</p>
+    </div>
+
+    <div class="card purple">
+      <h3>Tempo Total</h3>
+
+      <h2>{{ total_hours }}</h2>
+
+      <p>+ {{ weekly_hours }} esta semana</p>
+    </div>
+
+    <div class="card blue">
+      <h3>Vídeos Assistidos</h3>
+
+      <h2>{{ total_videos }}</h2>
+
+      <p>+ {{ weekly_videos }} vídeos esta semana</p>
+    </div>
+
+    <div class="card dark">
+      <h3>Tempo Diário Médio</h3>
+
+      <h2>{{ daily_average }} mins</h2>
+
+      <p>Últimos 30 dias</p>
+    </div>
+
+  </div>
+
+  <!-- GRAFICOS -->
+  <div class="charts">
+
+    <!-- NIVEIS -->
+    <div class="chart-box">
+
+      <h2>Tempo por nível</h2>
+
+      <div class="levels">
+
+        <div class="level-row">
+          <span class="badge a1">A1</span>
+
+          <div class="level-bar">
+            <div class="level-fill fill-a1"></div>
+          </div>
+
+          <span>{{ level_a1_hours }}h</span>
+        </div>
+
+        <div class="level-row">
+          <span class="badge a2">A2</span>
+
+          <div class="level-bar"></div>
+
+          <span>{{ level_a2_hours }}h</span>
+        </div>
+
+        <div class="level-row">
+          <span class="badge b1">B1</span>
+
+          <div class="level-bar"></div>
+
+          <span>{{ level_b1_hours }}h</span>
+        </div>
+
+        <div class="level-row">
+          <span class="badge b2">B2</span>
+
+          <div class="level-bar"></div>
+
+          <span>{{ level_b2_hours }}h</span>
+        </div>
+
+        <div class="level-row">
+          <span class="badge c1">C1</span>
+
+          <div class="level-bar"></div>
+
+          <span>{{ level_c1_hours }}h</span>
+        </div>
+
+        <div class="level-row">
+          <span class="badge c2">C2</span>
+
+          <div class="level-bar"></div>
+
+          <span>{{ level_c2_hours }}h</span>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- GRAFICO -->
+    <div class="chart-box">
+
+      <h2>Daily watch time</h2>
+
+      <canvas id="watchChart"></canvas>
+
+    </div>
+
+  </div>
+
+</div>
+
+<script src="{% static 'js/statistics.js' %}"></script>
+
+</body>
+</html>

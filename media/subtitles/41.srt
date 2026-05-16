@@ -1,0 +1,600 @@
+1
+00:00:00,000 --> 00:00:12,000
+ This is a chili.
+
+2
+00:00:12,000 --> 00:00:17,640
+ Here this is a chili.
+
+3
+00:00:17,640 --> 00:00:25,520
+ And there is a man and the man chops the chili.
+
+4
+00:00:25,520 --> 00:00:27,280
+ He chops it.
+
+5
+00:00:27,280 --> 00:00:29,960
+ He chops the chili.
+
+6
+00:00:29,960 --> 00:00:35,120
+ He is using a knife to chop the chili.
+
+7
+00:00:35,120 --> 00:00:41,840
+ See here this is a knife and the man is using the knife to chop the chili.
+
+8
+00:00:41,840 --> 00:00:45,000
+ He chops the chili in half.
+
+9
+00:00:45,000 --> 00:00:47,720
+ In half.
+
+10
+00:00:47,720 --> 00:00:52,880
+ Now there are two pieces of chili.
+
+11
+00:00:52,880 --> 00:00:59,880
+ Here is one piece of chili and here is another piece of chili.
+
+12
+00:00:59,880 --> 00:01:07,400
+ Because the chili has been chopped in half using a knife.
+
+13
+00:01:07,400 --> 00:01:14,000
+ But chili is very spicy.
+
+14
+00:01:14,000 --> 00:01:17,280
+ Very spicy.
+
+15
+00:01:17,280 --> 00:01:23,320
+ And the man is trying to eat the chili but it is too spicy.
+
+16
+00:01:23,320 --> 00:01:28,320
+ It is too spicy for him.
+
+17
+00:01:28,320 --> 00:01:32,320
+ This is the moon.
+
+18
+00:01:32,320 --> 00:01:35,479
+ It is the moon.
+
+19
+00:01:35,479 --> 00:01:39,800
+ And it is nighttime.
+
+20
+00:01:39,800 --> 00:01:42,280
+ It is not the daytime.
+
+21
+00:01:42,280 --> 00:01:45,880
+ It is nighttime.
+
+22
+00:01:45,880 --> 00:01:51,800
+ And the moon here, the moon is in the sky.
+
+23
+00:01:51,800 --> 00:01:57,720
+ The moon is in the sky at nighttime.
+
+24
+00:01:57,720 --> 00:02:05,520
+ There is a moon and there are also many stars as well.
+
+25
+00:02:05,520 --> 00:02:09,680
+ How many stars can you see?
+
+26
+00:02:09,680 --> 00:02:10,680
+ How many stars?
+
+27
+00:02:10,680 --> 00:02:12,320
+ Let me see.
+
+28
+00:02:12,320 --> 00:02:22,440
+ One star, two stars, three stars, four stars, five, six, seven, eight, nine, ten, eleven,
+
+29
+00:02:22,440 --> 00:02:28,200
+ twelve, thirteen, fourteen, fifteen, sixteen and seventeen.
+
+30
+00:02:28,200 --> 00:02:35,160
+ So there are seventeen stars that we can see in the picture.
+
+31
+00:02:35,160 --> 00:02:36,680
+ So there is the moon.
+
+32
+00:02:36,680 --> 00:02:42,560
+ There are seventeen stars in the sky.
+
+33
+00:02:42,560 --> 00:02:47,960
+ And we also see some hills.
+
+34
+00:02:47,960 --> 00:02:51,440
+ There are two hills here.
+
+35
+00:02:51,440 --> 00:02:55,600
+ Here is one hill and here is another hill.
+
+36
+00:02:55,600 --> 00:03:02,000
+ So there are two hills that we can see here.
+
+37
+00:03:02,000 --> 00:03:05,680
+ This is the sun.
+
+38
+00:03:05,680 --> 00:03:09,440
+ And now it is daytime.
+
+39
+00:03:09,440 --> 00:03:13,040
+ It is not nighttime anymore.
+
+40
+00:03:13,040 --> 00:03:15,600
+ It is now daytime.
+
+41
+00:03:15,600 --> 00:03:18,920
+ We can see the sun here.
+
+42
+00:03:18,920 --> 00:03:22,839
+ And we can also see two clouds.
+
+43
+00:03:22,839 --> 00:03:26,560
+ There are two clouds in the sky.
+
+44
+00:03:26,560 --> 00:03:28,799
+ Here is one cloud.
+
+45
+00:03:28,799 --> 00:03:30,119
+ Here is another cloud.
+
+46
+00:03:30,119 --> 00:03:33,079
+ So there are two clouds in the sky.
+
+47
+00:03:33,079 --> 00:03:37,399
+ The sun is coming up right now.
+
+48
+00:03:37,399 --> 00:03:40,040
+ The sun is coming up.
+
+49
+00:03:40,040 --> 00:03:44,440
+ It is sunrise now.
+
+50
+00:03:44,440 --> 00:03:45,480
+ Mm-hmm.
+
+51
+00:03:45,480 --> 00:03:48,160
+ Right now it is sunrise.
+
+52
+00:03:48,160 --> 00:03:50,680
+ The sun is rising.
+
+53
+00:03:50,680 --> 00:03:55,359
+ It is rising because it's sunrise now.
+
+54
+00:03:55,359 --> 00:04:00,240
+ The sun is rising from behind the hills.
+
+55
+00:04:00,240 --> 00:04:04,920
+ Behind the two hills the sun is rising.
+
+56
+00:04:04,920 --> 00:04:08,720
+ Now the sun is not rising.
+
+57
+00:04:08,720 --> 00:04:09,880
+ No.
+
+58
+00:04:09,880 --> 00:04:12,200
+ The sun is not coming up.
+
+59
+00:04:12,200 --> 00:04:15,000
+ The sun is going down.
+
+60
+00:04:15,000 --> 00:04:16,000
+ Now.
+
+61
+00:04:16,000 --> 00:04:19,800
+ The sun is going down.
+
+62
+00:04:19,800 --> 00:04:23,000
+ This is sunset.
+
+63
+00:04:23,000 --> 00:04:24,000
+ Mm-hmm.
+
+64
+00:04:24,000 --> 00:04:25,000
+ This here.
+
+65
+00:04:25,000 --> 00:04:29,000
+ This is called sunset.
+
+66
+00:04:29,000 --> 00:04:31,800
+ The sun is setting.
+
+67
+00:04:31,800 --> 00:04:34,200
+ The sun is setting right now.
+
+68
+00:04:34,200 --> 00:04:37,240
+ The sun is setting behind the two hills.
+
+69
+00:04:37,240 --> 00:04:44,440
+ You see it's setting just behind this hill here, just here.
+
+70
+00:04:44,440 --> 00:04:47,360
+ Now there are three clouds in the sky.
+
+71
+00:04:47,360 --> 00:04:51,160
+ One cloud, two clouds and now three clouds.
+
+72
+00:04:51,160 --> 00:04:56,400
+ So this is sunrise and this is sunset.
+
+73
+00:04:56,400 --> 00:05:01,000
+ Sunrise and sunset.
+
+74
+00:05:01,000 --> 00:05:04,880
+ This is a pair of shoes.
+
+75
+00:05:04,880 --> 00:05:08,720
+ So these are shoes.
+
+76
+00:05:09,720 --> 00:05:15,040
+ I think orange or red, orange or red shoes.
+
+77
+00:05:15,040 --> 00:05:17,400
+ I will say orange.
+
+78
+00:05:17,400 --> 00:05:21,960
+ These are orange shoes here.
+
+79
+00:05:21,960 --> 00:05:29,960
+ Now this boy, this boy here, he puts on the shoes.
+
+80
+00:05:29,960 --> 00:05:31,120
+ You see?
+
+81
+00:05:31,120 --> 00:05:34,080
+ He puts the shoes on right here.
+
+82
+00:05:34,080 --> 00:05:35,520
+ You see this?
+
+83
+00:05:35,520 --> 00:05:39,240
+ He is putting on the shoes right now.
+
+84
+00:05:39,240 --> 00:05:43,640
+ Also, the boy is wearing socks.
+
+85
+00:05:43,640 --> 00:05:48,200
+ Here is one sock and here is another sock.
+
+86
+00:05:48,200 --> 00:05:50,240
+ See, there are two socks.
+
+87
+00:05:50,240 --> 00:05:59,520
+ The boy is wearing a pair of socks and he is putting on his shoes now.
+
+88
+00:05:59,520 --> 00:06:05,080
+ Now the boy is taking off his shoes.
+
+89
+00:06:05,080 --> 00:06:07,960
+ He is taking the shoes off.
+
+90
+00:06:07,960 --> 00:06:10,919
+ Is he putting on the shoes?
+
+91
+00:06:10,919 --> 00:06:13,560
+ No, he's not putting on the shoes.
+
+92
+00:06:13,560 --> 00:06:17,120
+ He's taking the shoes off, actually.
+
+93
+00:06:17,120 --> 00:06:19,919
+ He's taking them off.
+
+94
+00:06:19,919 --> 00:06:26,280
+ So here he takes off the orange shoes.
+
+95
+00:06:26,280 --> 00:06:28,719
+ This is a book.
+
+96
+00:06:28,719 --> 00:06:33,599
+ Actually, this is a green book.
+
+97
+00:06:33,600 --> 00:06:35,320
+ It's a green book.
+
+98
+00:06:35,320 --> 00:06:36,800
+ Is it a blue book?
+
+99
+00:06:36,800 --> 00:06:39,160
+ No, it's not a blue book.
+
+100
+00:06:39,160 --> 00:06:42,960
+ It's a green book.
+
+101
+00:06:42,960 --> 00:06:44,800
+ This is a shelf.
+
+102
+00:06:44,800 --> 00:06:45,800
+ You see?
+
+103
+00:06:45,800 --> 00:06:47,000
+ This here.
+
+104
+00:06:47,000 --> 00:06:49,480
+ This is a shelf.
+
+105
+00:06:49,480 --> 00:06:54,240
+ How many books are on the shelf?
+
+106
+00:06:54,240 --> 00:07:00,160
+ One book, two books, three books, four, five, six books.
+
+107
+00:07:00,160 --> 00:07:04,840
+ There are six books on the shelf.
+
+108
+00:07:04,840 --> 00:07:08,960
+ There is a blue book and a yellow book.
+
+109
+00:07:08,960 --> 00:07:13,160
+ There are two pink books.
+
+110
+00:07:13,160 --> 00:07:16,880
+ There is a red book and there is a green book.
+
+111
+00:07:16,880 --> 00:07:23,920
+ So there are many different colors of book on the shelf.
+
+112
+00:07:23,920 --> 00:07:28,880
+ The man here, he takes the green book off the shelf.
+
+113
+00:07:28,880 --> 00:07:34,560
+ Here he takes the green book off the shelf.
+
+114
+00:07:34,560 --> 00:07:39,360
+ Here, now, sorry, it is not a man.
+
+115
+00:07:39,360 --> 00:07:40,719
+ It is not a man.
+
+116
+00:07:40,719 --> 00:07:42,760
+ It is a girl.
+
+117
+00:07:42,760 --> 00:07:44,719
+ This is a girl here.
+
+118
+00:07:44,719 --> 00:07:50,040
+ I think it is a young girl.
+
+119
+00:07:50,040 --> 00:07:53,040
+ The girl opens the book.
+
+120
+00:07:53,040 --> 00:07:54,040
+ See?
+
+121
+00:07:54,040 --> 00:07:55,600
+ She opens the book.
+
+122
+00:07:55,600 --> 00:07:59,880
+ And now, the book is open.
+
+123
+00:07:59,880 --> 00:08:02,440
+ This is an open book.
+
+124
+00:08:02,440 --> 00:08:04,200
+ Yeah.
+
+125
+00:08:04,200 --> 00:08:06,160
+ Is the book closed?
+
+126
+00:08:06,160 --> 00:08:07,160
+ No.
+
+127
+00:08:07,160 --> 00:08:09,080
+ The book is not closed.
+
+128
+00:08:09,080 --> 00:08:10,960
+ The book is open.
+
+129
+00:08:10,960 --> 00:08:15,160
+ It's not closed.
+
+130
+00:08:15,160 --> 00:08:18,520
+ Now this girl is reading the book.
+
+131
+00:08:18,520 --> 00:08:23,120
+ She is reading the green book, which is open.
+
+132
+00:08:23,120 --> 00:08:29,840
+ The green book is open and she is reading it.
+
+133
+00:08:29,840 --> 00:08:32,880
+ Now she closes.
+
+134
+00:08:32,880 --> 00:08:34,520
+ She closes the book.
+
+135
+00:08:34,520 --> 00:08:35,520
+ Now.
+
+136
+00:08:35,520 --> 00:08:38,320
+ And now the book is closed.
+
+137
+00:08:38,320 --> 00:08:39,640
+ Now.
+
+138
+00:08:39,640 --> 00:08:41,000
+ Is the book open?
+
+139
+00:08:41,000 --> 00:08:42,000
+ No.
+
+140
+00:08:42,000 --> 00:08:44,360
+ The book is not open now.
+
+141
+00:08:44,360 --> 00:08:47,360
+ The book is closed.
+
+142
+00:08:47,360 --> 00:08:51,080
+ So the book is closed.
+
+143
+00:08:51,080 --> 00:08:55,960
+ And now she will put the green book back on the shelf.
+
+144
+00:08:55,960 --> 00:09:03,600
+ So right here, you can see, you can see, she is putting the green book back.
+
+145
+00:09:03,600 --> 00:09:05,560
+ She's putting it back.
+
+146
+00:09:05,560 --> 00:09:11,920
+ She's putting the green book back on the shelf again.
+
+147
+00:09:11,920 --> 00:09:13,400
+ That is the end of the video.
+
+148
+00:09:13,400 --> 00:09:14,960
+ Thank you for watching.
+
+149
+00:09:14,960 --> 00:09:17,400
+ And I will see you in the next one.
+
+150
+00:09:17,400 --> 00:09:18,600
+ Bye-bye.
+
